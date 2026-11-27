@@ -1,42 +1,67 @@
 # Hi there, I'm Avantika Ajay Deshmukh! 👋
 
 ## 🚀 About Me
-I’m a **Data and Machine Learning Engineer** passionate about building AI-driven solutions that drive real-world impact. With a background in **Information Technology** and a **Master’s in Information Systems (Data Science)**, I love working at the intersection of **machine learning, data engineering, and cloud computing.**
-I enjoy developing **scalable ML pipelines, interactive analytics dashboards, and intelligent applications** that turn complex data into actionable insights.
 
-## 🔭 I’m currently working on ...
-- Building **reinforcement learning** frameworks for intelligent decision-making systems.
-- Developing **chatbots and AI applications** using LLMs and Retrieval-Augmented Generation (RAG).
-- Exploring ways to **integrate AI models into real-world applications** for better user experience and automation.
+I’m an **AI Engineer with 3+ years of experience** building production-ready intelligent systems across **LLM agents, machine learning, data engineering, and cloud infrastructure**.
 
-## 🌱 I’m currently learning ...
-- **AI Application Engineering** — designing end-to-end intelligent systems that **combine ML models with user-facing interfaces.**
-- Integration of **LLMs into production environments for reasoning**, personalization, and analytics.
-- Advanced model **evaluation and optimization for scalable, reliable AI solutions**.
+I currently work on **real-time voice and text agents**, multi-agent orchestration, RAG pipelines, and tool-integrated AI applications. I enjoy taking ideas from early discovery through architecture, evaluation, and production deployment—especially when they solve meaningful, real-world problems.
 
-## 👯 I’m looking to collaborate on ...
-- **AI Engineering, Machine Learning, and Data Science projects** 🤖 — especially those that involve building end-to-end systems, from data collection and modeling to deployment and user interaction.
-- **Open-source contributions** in areas like **MLOps, Cloud AI, and Generative AI**, where I can help design efficient workflows, improve scalability, and contribute to community-driven innovation.
-- **Research collaborations focused on AI for sustainability and climate tech** 🌱, leveraging data-driven insights and intelligent models to create meaningful environmental and social impact.
+I hold a **Master’s in Information Systems (Data Science)** and a **Bachelor’s in Information Technology**. I’m also an **AWS Certified Machine Learning Engineer – Associate**.
 
-## 🤔 I’m looking for help with ...
-- Navigating career paths in **AI/ML Engineering and Applied Data Science**.
-- Deploying large-scale **ML models efficiently in production environments**.
-- Exploring emerging **GenAI and reinforcement learning** applications.
+## 🔭 I’m Currently Working On
 
-## 💬 Ask me about ...
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Transformers).
-- **Data Engineering & Pipelines** (AWS Glue, PySpark, Airflow, SQL).
-- **LLMs & GenAI** (Fine-tuning, RAG, Prompt Engineering).
-- **Visualization & Dashboards** (Plotly Dash, Streamlit, Power BI).
-- **Cloud Deployment** (AWS, GCP, Docker, CI/CD).
+- Building **real-time voice and text agents** with LangGraph, Twilio, LiveKit, and Deepgram.
+- Designing reusable, **multi-tenant agent frameworks** with structured tool calling and shared state.
+- Developing conversation-intelligence pipelines that transform customer interactions into actionable business insights.
+- Improving the safety and reliability of AI agents through grounding, validation, evaluation, and failure-recovery workflows.
+- Building scalable **RAG and vector-search systems** on AWS.
 
-## 📫 How to reach me ...
+## 🌱 I’m Currently Learning
+
+- Advanced **AI agent architecture and orchestration** for complex, multi-step workflows.
+- Evaluation and observability techniques for building reliable production AI systems.
+- Real-time speech-to-speech AI, interruption handling, and low-latency tool coordination.
+- Guardrails and security patterns for safer LLM applications.
+- New ways to combine intelligent backends with intuitive, user-facing experiences.
+
+## 🛠️ Technologies I Work With
+
+- **AI & Agents:** LangGraph, LangChain, RAG, MCP, tool calling, multi-agent systems, prompt engineering
+- **Machine Learning:** PyTorch, TensorFlow, Transformers, NLP, deep learning, model evaluation
+- **Languages & APIs:** Python, TypeScript, JavaScript, FastAPI, Flask, REST APIs, webhooks
+- **Data Engineering:** PySpark, AWS Glue, SQL, PostgreSQL, pgvector, data pipelines
+- **Cloud & Infrastructure:** AWS, GCP Vertex AI, Docker, GitHub Actions, CI/CD
+- **Vector Search:** Pinecone, Amazon S3 Vectors, Chroma
+- **Observability & Experimentation:** Langfuse, Weights & Biases
+- **Visualization:** Plotly Dash, Streamlit, Power BI
+
+
+## 👯 I’m Looking to Collaborate On
+
+- **AI engineering, machine learning projects** that turn models into useful end-to-end applications.
+- Open-source projects involving **AI agents, MLOps, cloud AI, RAG, and Generative AI**.
+- Research and engineering initiatives focused on **AI for sustainability and climate technology** 🌱.
+- Tools that make intelligent systems more reliable, scalable, explainable, and accessible.
+
+## 💬 Ask Me About
+
+- Building production **LLM agents and multi-agent systems**
+- Real-time **voice AI and conversational applications**
+- RAG pipelines, vector search, and grounding
+- Machine learning and NLP systems
+- Data engineering with PySpark and AWS Glue
+- Deploying AI applications with AWS, GCP, Docker, and CI/CD
+- Evaluating and improving the reliability of AI systems
+
+## 📫 Let’s Connect
+
 - **Email:** [deshmukhavantika06@gmail.com](mailto:deshmukhavantika06@gmail.com)
-- **LinkedIn:** [linkedin.com/in/avantika-deshmukh/](https://www.linkedin.com/in/avantika-deshmukh/)
-- **GitHub:** [github.com/avantika06](https://github.com/avantika06)
+- **LinkedIn:** [linkedin.com/in/avantika-deshmukh](https://www.linkedin.com/in/avantika-deshmukh/)
 
-## 😄 Pronouns: She/Her
+## 😄 Pronouns
 
-## ⚡ Fun fact: 
-I love spending my downtime **diving into books**—whether it’s fiction that sparks creativity or non-fiction that broadens my perspective. 📖✨
+She/Her
+
+## ⚡ Fun Fact
+
+When I’m not building AI systems, I love diving into books—whether it’s fiction that sparks creativity or non-fiction that broadens my perspective. 📖✨
